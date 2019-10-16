@@ -5,3 +5,6 @@ _site
 vendor
 LICENSE.txt
 README.md
+public_html
+_doc
+Gemfile.lock
